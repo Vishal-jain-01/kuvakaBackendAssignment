@@ -2,10 +2,12 @@
   "name": "lead-scoring-backend",
   "version": "1.0.0",
   "description": "AI-powered lead scoring backend service that combines rule-based logic with AI reasoning to qualify prospects",
-  "main": "src/server.js",
+  "main": "api/index.js",
   "scripts": {
     "start": "node src/server.js",
     "dev": "nodemon src/server.js",
+    "build": "echo 'Build completed'",
+    "vercel-build": "echo 'Vercel build completed'",
     "test": "jest",
     "test:watch": "jest --watch"
   },
