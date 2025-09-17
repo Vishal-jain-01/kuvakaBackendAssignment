@@ -42,8 +42,8 @@ This backend service accepts product/offer information and a CSV of leads, then 
 
 1. **Clone and install dependencies:**
 ```bash
-git clone <your-repo-url>
-cd lead-scoring-backend
+git clone https://github.com/Vishal-jain-01/kuvakaBackendAssignment.git
+cd kuvakaBackendAssignment
 npm install
 ```
 
